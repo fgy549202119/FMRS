@@ -1,0 +1,17 @@
+.venv/
+**/__pycache__/
+**/*.py[cod]
+node_modules/
+dist/
+**/dist/
+.env
+.env.*
+!.env.example
+.idea/
+.trae/
+backend.zip
+frontend.zip
+backend/db/*.sql
+backend/media/
+frontend/.git/
+frontend/frontend/
